@@ -1,0 +1,74 @@
+body  {background-color: #FFFAFA;
+        margin: 0 20%;  
+        border: 1px dotted #FFFAFA; 
+        padding: 10px; 
+        font-family: sans-serif;
+        font-size: 14px;
+        font-style: oblique;
+         }
+   
+       
+ h1 
+    {font-size: 21px;}
+ h1 {border-bottom: 1px solid black;}
+ 
+        h2
+        {text-decoration: underline;}
+        h2
+        {font-size: 17px;}
+        h2 
+        {color: green;}      
+
+
+       
+
+        p {
+            color: rgb(46, 45, 56);
+        }
+        h2.greentea {
+           color: green;
+           margin: 30px;
+        }
+
+        h2.malina {
+         color: brown;
+         margin: 30px;
+        }
+        h2.bluetea {
+           color: blue;
+           margin: 30px;
+        }
+        
+         h2.clukvatea {
+           color: crimson;
+           margin: 30px;
+        }
+
+
+       h1.strang {
+            color: black;
+               }
+
+     #elexirs {
+      border-width: thin; /* Позволяет взять выделенное в рамку div */
+      border-style: solid;   
+      border-color: 007e7e;  
+      width: 200px; /* содержимое в div уменьшает либо увеличивает ширину в пикселях*/
+      padding-right: 20px;
+      padding-bottom: 20px; /* padding выравнивание текста внутри рамки*/
+      padding-left: 20px;
+      margin-left: 20px; /*содержимый блок с контентом в лево на 20px*/
+      text-align: center; /*Выравнивает текс ровно по центру внутри рамки*/
+      background-image: url(imagin/noroot.png);
+      background-repeat: repeat-x; /*не дает повторятся изображению*/
+         }    
+         
+         #elexirs h2{
+            color: black; /*цвет зоголовков в классе dive*/
+         }
+
+          #elexirs {
+            line-height: 1; /*отступ заголовков от текста*/
+         }
+     
+             

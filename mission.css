@@ -1,0 +1,42 @@
+ body {
+            background-color: #FFFAFA; /*Задний фон*/
+            margin: 0 20%;
+            border: 1px dotted #FFFAFA; /*Границы вокруг содержимого контента*/
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 14px;
+            font-style: italic; /*менять шрифт*/
+        }
+
+        h1, h2 {
+            font-size: 21px;
+            font-weight: normal;
+        }
+
+        h2 {
+            font-size: 17px;
+        }
+
+         h2
+        {text-decoration: underline;}
+
+        h1, h2 {
+            font-family: sans-serif;
+            color: gray;
+               }
+
+        h1, h2 {
+            border-bottom: 1px solid black; /*линия под текстом*/
+        }
+
+        p {
+            color: black;
+        }
+
+        em {
+            font-family: serif;
+        }
+
+        h1.zadaha {
+            color: brown;
+        }
